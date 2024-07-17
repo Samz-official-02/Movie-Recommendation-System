@@ -47,7 +47,7 @@ By implementing the Movie Recommendation System, the streaming service can enhan
 
 The application is deployed on a Cloud Platform `Render`.
 
-You can access the application using the given Deployment Link: [Movie Recommendation System](https://movie-recommendation-system-573d.onrender.com/)
+You can access the application using the given Deployment Link: [Movie Recommendation System](https://movie-recommendation-system-g7yv.onrender.com)
 
 # Features
 
